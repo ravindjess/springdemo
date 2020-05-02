@@ -10,7 +10,7 @@
 	<version>1.0.0</version>
 	<name>SpringDemo Maven Webapp</name>
 
-	<!-- tjess  dency> -->
+	<!-- tjess  dddd dency> -->
 	   
 	<properties>
 		<springframework.version>4.3.0.RELEASE</springframework.version>
